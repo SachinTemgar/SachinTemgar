@@ -1,10 +1,15 @@
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:3a3a3a&height=120&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:3a3a3a&height=60&section=header" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Sachin+Temgar" alt="Name animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=3000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Sachin+Temgar" alt="Name animation"/>
+</p>
+
+<p align="center">
+  <sub><sup>सचिन टेमगर</sup></sub>
 </p>
 
 <p align="center">

@@ -41,22 +41,27 @@ AI/ML         ->  PyTorch · RAG · Agentic AI · LLMs · YOLOv8 · Transformers
 ### The Work
 
 
+
 <p align="center">
   <a href="https://github.com/SachinTemgar/High-Performance-Pneumonia-Detection-Localization-HPC-Project-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SachinTemgar&repo=High-Performance-Pneumonia-Detection-Localization-HPC-Project-&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=1f6feb" />
+    <img src="https://gh-card.dev/repos/SachinTemgar/High-Performance-Pneumonia-Detection-Localization-HPC-Project-.svg" />
   </a>
+  &nbsp;
   <a href="https://github.com/SachinTemgar/Customer-Behavior-Analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SachinTemgar&repo=Customer-Behavior-Analytics&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=1f6feb" />
+    <img src="https://gh-card.dev/repos/SachinTemgar/Customer-Behavior-Analytics.svg" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/SachinTemgar/Personal-Portfolio-Management-System-PPMS-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SachinTemgar&repo=Personal-Portfolio-Management-System-PPMS-&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=1f6feb" />
+    <img src="https://gh-card.dev/repos/SachinTemgar/Personal-Portfolio-Management-System-PPMS-.svg" />
   </a>
+  &nbsp;
   <a href="https://github.com/SachinTemgar/Credit-Risk-Prediction-and-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SachinTemgar&repo=Credit-Risk-Prediction-and-Analysis&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=1f6feb" />
+    <img src="https://gh-card.dev/repos/SachinTemgar/Credit-Risk-Prediction-and-Analysis.svg" />
   </a>
 </p>
+</p>
+
 Each one is a decision, not a demo.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>

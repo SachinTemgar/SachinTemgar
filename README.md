@@ -65,20 +65,4 @@ If that's you, let's talk.
 
 📫 temgar.s@northeastern.edu &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/sachin-temgar)
 
----
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SachinTemgar&theme=github-dark&hide_border=true" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinTemgar&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Sachin+Temgar;सचिन+टेमगर;S+A+C+H+I+N" alt="Name animation"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,100:0d0d0d&height=100&section=footer" width="100%"/>
-</p>

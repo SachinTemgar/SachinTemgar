@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/MS_Software_Engineering_Systems-0d1117?style=flat-square&logo=northeastern-university&logoColor=CC0000&labelColor=0d1117&color=30363d"/>
-  <img src="https://img.shields.io/badge/Northeastern_University-CC0000?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Northeastern_University-0d1117?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/May_2026-0d1117?style=flat-square&color=30363d&logoColor=white"/>
   <img src="https://img.shields.io/badge/Boston,_MA-0d1117?style=flat-square&logo=google-maps&logoColor=4285F4&color=30363d"/>
 </p>

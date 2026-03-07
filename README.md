@@ -42,22 +42,23 @@ AI/ML         ->  PyTorch · RAG · Agentic AI · LLMs · YOLOv8 · Transformers
 
 
 
+
 <p align="center">
   <a href="https://github.com/SachinTemgar/High-Performance-Pneumonia-Detection-Localization-HPC-Project-">
-    <img src="https://gh-card.dev/repos/SachinTemgar/High-Performance-Pneumonia-Detection-Localization-HPC-Project-.svg" />
+    <img src="https://gh-card.dev/repos/SachinTemgar/High-Performance-Pneumonia-Detection-Localization-HPC-Project-.svg?fullname=1&dark=1" />
   </a>
   &nbsp;
   <a href="https://github.com/SachinTemgar/Customer-Behavior-Analytics">
-    <img src="https://gh-card.dev/repos/SachinTemgar/Customer-Behavior-Analytics.svg" />
+    <img src="https://gh-card.dev/repos/SachinTemgar/Customer-Behavior-Analytics.svg?fullname=1&dark=1" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/SachinTemgar/Personal-Portfolio-Management-System-PPMS-">
-    <img src="https://gh-card.dev/repos/SachinTemgar/Personal-Portfolio-Management-System-PPMS-.svg" />
+    <img src="https://gh-card.dev/repos/SachinTemgar/Personal-Portfolio-Management-System-PPMS-.svg?fullname=1&dark=1" />
   </a>
   &nbsp;
   <a href="https://github.com/SachinTemgar/Credit-Risk-Prediction-and-Analysis">
-    <img src="https://gh-card.dev/repos/SachinTemgar/Credit-Risk-Prediction-and-Analysis.svg" />
+    <img src="https://gh-card.dev/repos/SachinTemgar/Credit-Risk-Prediction-and-Analysis.svg?fullname=1&dark=1" />
   </a>
 </p>
 </p>

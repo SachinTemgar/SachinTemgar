@@ -1,18 +1,10 @@
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:30363d,100:161b22&height=3" width="100%"/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:21262d,100:161b22&height=180" width="100%"/>
+p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,50:21262d,100:161b22&height=160&text=Sachin%20Temgar&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=सचिन%20टेमगर&descSize=22&descColor=aaaaaa&descAlign=50&descAlignY=70&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&pause=2500&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=Sachin+Temgar;%E0%A4%B8%E0%A4%9A%E0%A4%BF%E0%A4%A8+%E0%A4%9F%E0%A5%87%E0%A4%AE%E0%A4%97%E0%A4%B0" alt="Name animation"/>
-  <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&height=40&lines=Systems+that+scale.;Data+that+decides.;Models+that+ship.;Problems+worth+solving.;Building+where+systems+meet+intelligence." alt="Role animation"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:30363d&height=3" width="100%"/>
 
 <br/>
 I work at the edge where systems get interesting —

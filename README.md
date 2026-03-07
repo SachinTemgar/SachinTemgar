@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:3a3a3a&height=60&section=header" width="100%"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=40&pause=2500&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Sachin+Temgar;%E0%A4%B8%E0%A4%9A%E0%A4%BF%E0%A4%A8+%E0%A4%9F%E0%A5%87%E0%A4%AE%E0%A4%97%E0%A4%B0" alt="Name animation"/>

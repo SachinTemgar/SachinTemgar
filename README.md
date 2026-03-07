@@ -40,7 +40,23 @@ AI/ML         ->  PyTorch · RAG · Agentic AI · LLMs · YOLOv8 · Transformers
 
 ### The Work
 
--> See pinned repositories below.
+
+<p align="center">
+  <a href="https://github.com/SachinTemgar/pneumonia-detection-hpc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SachinTemgar&repo=pneumonia-detection-hpc&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=1f6feb" />
+  </a>
+  <a href="https://github.com/SachinTemgar/transformer-trading-assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SachinTemgar&repo=transformer-trading-assistant&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=1f6feb" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/SachinTemgar/investment-portfolio-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SachinTemgar&repo=investment-portfolio-system&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=1f6feb" />
+  </a>
+  <a href="https://github.com/SachinTemgar/fastapi-postgres-service">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SachinTemgar&repo=fastapi-postgres-service&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=1f6feb" />
+  </a>
+</p>
 Each one is a decision, not a demo.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>

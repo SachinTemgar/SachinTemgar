@@ -1,9 +1,14 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:3a3a3a&height=200&section=header&text=Sachin%20Temgar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Systems%20%7C%20Data%20%7C%20AI&descSize=18&descAlignY=58&descColor=aaaaaa&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:3a3a3a&height=120&section=header" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+Software+Engineer;Building+where+systems+meet+intelligence;Data+that+drives+decisions;Currently+building+something+interesting..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Sachin+Temgar" alt="Name animation"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+Software+Engineer;Building+where+systems+meet+intelligence;Data+that+drives+decisions;Currently+building+something+interesting..." alt="Role animation" />
 </p>
 
 <br/>

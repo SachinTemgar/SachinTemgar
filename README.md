@@ -8,54 +8,73 @@
 </p>
 
 <br/>
-I work at the edge where systems get interesting —
-where the data is messy, the scale is real, and the solution has to hold.
 
-**MS Software Engineering Systems · Northeastern University · May 2026**
-Boston, MA
+*The edge where systems get interesting — where data is messy, scale is real, and the solution has to hold.*
 
----
+<br/>
 
-Currently building across **ML infrastructure, backend systems, and applied AI.**
-Selectively exploring what's next.
-
-→ The work is below. The interesting conversations are at temgar.s@northeastern.edu
+**MS Software Engineering Systems &nbsp;·&nbsp; Northeastern University &nbsp;·&nbsp; May 2026**
+&nbsp;&nbsp;Boston, MA
 
 ---
 
-### What I work with
+I don't specialize in one thing because the best problems don't either.
+
+My work sits at the intersection of **backend engineering, data infrastructure, and applied AI** —
+building things that hold up in production, not just in notebooks.
+
+---
+
+### Arsenal
 
 ```text
-Languages     → Python · Java · SQL · JavaScript
-Databases     → PostgreSQL · MongoDB · MySQL · SQL Server
-Frameworks    → FastAPI · Spring Boot · JavaFX
-Cloud/DevOps  → AWS · GCP · Docker · GitHub Actions · CI/CD
-AI/ML         → PyTorch · RAG · Agentic AI · LLMs (Llama 3.1) · YOLOv8 · Transformers
+Languages     →  Python · Java · SQL · JavaScript
+Databases     →  PostgreSQL · MongoDB · MySQL · SQL Server
+Frameworks    →  FastAPI · Spring Boot · JavaFX
+Cloud/DevOps  →  AWS · GCP · Docker · GitHub Actions · CI/CD
+AI/ML         →  PyTorch · RAG · Agentic AI · LLMs · YOLOv8 · Transformers
 ```
 
 ---
 
-### Selected work
-→ See pinned repos below
+### The work
+
+→ See pinned repositories below.
+Each one is a decision, not a demo.
 
 ---
 
+### On the bench
 
-### How I think
-
-I care about three things: **systems that hold under pressure**, **data that earns trust**, and **solutions simple enough to explain to anyone in the room.**
-
-Whether that's a distributed training pipeline, a production API, or a technical tradeoff conversation with stakeholders — I've been in it.
-
-🎓 Certified: Building RAG Agents with LLMs — NVIDIA Deep Learning Institute
+🔒 &nbsp;**[Undisclosed]** — LLM-powered agentic system.&nbsp; *Dropping soon.*
 
 ---
 
-### Let's connect
+### How I operate
 
-I'm selectively exploring roles where the problem is genuinely hard —
-**ML Engineering · Software Engineering · Data Engineering · Data Science · Tech Consulting**
+Three principles. Non-negotiable.
 
-If that's you, let's talk.
+> **Build for production, not for portfolios.**
+> **Let the data speak — then make it impossible to ignore.**
+> **If you can't explain it simply, you don't understand it yet.**
 
-📫 temgar.s@northeastern.edu &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/sachin-temgar)
+Whether that's architecting a distributed training pipeline, designing a production API under load,
+or translating a technical tradeoff to a non-technical room — I've been in it.
+
+<br/>
+
+🎓 &nbsp;*Certified — Building RAG Agents with LLMs · NVIDIA Deep Learning Institute*
+
+---
+
+### Availability
+
+I'm not looking for just any role.
+I'm looking for the right problem.
+
+If your work sits at the intersection of **engineering, data, and impact** — let's talk.
+
+<br/>
+
+📫 &nbsp;[temgar.s@northeastern.edu](mailto:temgar.s@northeastern.edu) &nbsp;&nbsp;·&nbsp;&nbsp; 🔗 &nbsp;[LinkedIn](https://linkedin.com/in/sachin-temgar)
+

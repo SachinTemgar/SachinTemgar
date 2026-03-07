@@ -30,10 +30,12 @@ Building things that hold up in production, not just in notebooks.
 
 ```text
 Languages     ->  Python · Java · SQL · JavaScript
-Databases     ->  PostgreSQL · MongoDB · MySQL · SQL Server
-Frameworks    ->  FastAPI · Spring Boot · JavaFX
-Cloud/DevOps  ->  AWS · GCP · Docker · GitHub Actions · CI/CD
+Databases     ->  PostgreSQL · MySQL · MongoDB · Snowflake · SQL Server
+Frameworks    ->  FastAPI · Spring Boot · JavaFX · DBT
+Cloud/DevOps  ->  AWS (EC2 · S3) · GCP · Docker · GitHub Actions · CI/CD · Git · GitFlow
 AI/ML         ->  PyTorch · RAG · Agentic AI · LLMs · YOLOv8 · Transformers
+Data          ->  Power BI · ETL Pipelines · Pandas · SQL Analytics
+HPC           ->  GPU Computing · Distributed Training · SLURM · PyTorch DDP/FSDP
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>

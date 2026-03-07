@@ -26,7 +26,7 @@ Building things that hold up in production, not just in notebooks.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
-### ![Arsenal](https://img.shields.io/badge/ARSENAL-0d1117?style=flat-square&labelColor=0d1117&color=1f6feb)
+### Arsenal
 
 ```text
 Languages     ->  Python · Java · SQL · JavaScript
@@ -38,20 +38,20 @@ AI/ML         ->  PyTorch · RAG · Agentic AI · LLMs · YOLOv8 · Transformers
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
-### ![The Work](https://img.shields.io/badge/THE_WORK-0d1117?style=flat-square&labelColor=0d1117&color=1f6feb)
+### The Work
 
 -> See pinned repositories below.
 Each one is a decision, not a demo.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
-### ![On The Bench](https://img.shields.io/badge/ON_THE_BENCH-0d1117?style=flat-square&labelColor=0d1117&color=1f6feb)
+### On The Bench
 
 🔒 &nbsp;**[Undisclosed]** LLM-powered agentic system.&nbsp; *Dropping soon.*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
-### ![How I Operate](https://img.shields.io/badge/HOW_I_OPERATE-0d1117?style=flat-square&labelColor=0d1117&color=1f6feb)
+### How I Operate
 
 Three principles. Non-negotiable.
 
@@ -68,7 +68,7 @@ or translating a technical tradeoff to a non-technical room, I've been in it.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
-### ![Availability](https://img.shields.io/badge/AVAILABILITY-0d1117?style=flat-square&labelColor=0d1117&color=1f6feb)
+### Availability
 
 I'm not looking for just any role.
 I'm looking for the right problem.
@@ -78,4 +78,3 @@ If your work sits at the intersection of **engineering, data, and impact**, let'
 <br/>
 
 📫 &nbsp;[temgar.s@northeastern.edu](mailto:temgar.s@northeastern.edu) &nbsp;&nbsp;·&nbsp;&nbsp; 🔗 &nbsp;[LinkedIn](https://linkedin.com/in/sachin-temgar)
-

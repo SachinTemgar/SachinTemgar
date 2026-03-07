@@ -17,14 +17,14 @@
 **MS Software Engineering Systems &nbsp;·&nbsp; Northeastern University &nbsp;·&nbsp; May 2026**
 &nbsp;&nbsp;Boston, MA
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,50:555555,100:3a3a3a&height=2" width="100%"/>
 
 I don't specialize in one thing because the best problems don't either.
 
 My work sits at the intersection of **backend engineering, data infrastructure, and applied AI.**
 Building things that hold up in production, not just in notebooks.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,50:555555,100:3a3a3a&height=2" width="100%"/>
 
 ### Arsenal
 
@@ -36,20 +36,20 @@ Cloud/DevOps  ->  AWS · GCP · Docker · GitHub Actions · CI/CD
 AI/ML         ->  PyTorch · RAG · Agentic AI · LLMs · YOLOv8 · Transformers
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,50:555555,100:3a3a3a&height=2" width="100%"/>
 
 ### The work
 
 -> See pinned repositories below.
 Each one is a decision, not a demo.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,50:555555,100:3a3a3a&height=2" width="100%"/>
 
 ### On the bench
 
-🔒 &nbsp;**[Undisclosed]** — LLM-powered agentic system.&nbsp; *Dropping soon.*
+🔒 &nbsp;**[Undisclosed]** LLM-powered agentic system.&nbsp; *Dropping soon.*
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,50:555555,100:3a3a3a&height=2" width="100%"/>
 
 ### How I operate
 
@@ -66,7 +66,7 @@ or translating a technical tradeoff to a non-technical room, I've been in it.
 
 🎓 &nbsp;*Certified: Building RAG Agents with LLMs · NVIDIA Deep Learning Institute*
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,50:555555,100:3a3a3a&height=2" width="100%"/>
 
 ### Availability
 
@@ -78,3 +78,4 @@ If your work sits at the intersection of **engineering, data, and impact**, let'
 <br/>
 
 📫 &nbsp;[temgar.s@northeastern.edu](mailto:temgar.s@northeastern.edu) &nbsp;&nbsp;·&nbsp;&nbsp; 🔗 &nbsp;[LinkedIn](https://linkedin.com/in/sachin-temgar)
+

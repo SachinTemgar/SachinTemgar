@@ -43,7 +43,7 @@ AI/ML         ->  PyTorch · RAG · Agentic AI · LLMs · YOLOv8 · Transformers
 | Project | Stack | Domain |
 |---|---|---|
 | [High-Performance Pneumonia Detection](https://github.com/SachinTemgar/High-Performance-Pneumonia-Detection-Localization-HPC-Project-) | PyTorch · YOLOv8 · HPC · Slurm | Medical AI · Distributed Systems |
-| [Customer Behavior Analytics](https://github.com/SachinTemgar/Customer-Behavior-Analytics) | Python · Pandas · ML | Data Science · Business Intelligence |
+| [Customer Behavior Analytics](https://github.com/SachinTemgar/Customer-Behavior-Analytics) | Python · SQL · PostgreSQL · Power BI | Data Analytics · Business Intelligence |
 | [Personal Portfolio Management System](https://github.com/SachinTemgar/Personal-Portfolio-Management-System-PPMS-) | Java · JavaFX · MongoDB | Software Engineering · FinTech |
 | [Credit Risk Prediction](https://github.com/SachinTemgar/Credit-Risk-Prediction-and-Analysis) | Python · Scikit-learn · SQL | ML · Risk Analytics |
 

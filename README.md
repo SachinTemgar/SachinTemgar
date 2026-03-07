@@ -84,14 +84,14 @@ If your work sits at the intersection of **engineering, data, and impact**, let'
 
 <p align="center">
   <a href="mailto:Sachintemgar10@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/sachin-temgar">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:temgar.s@northeastern.edu">
-    <img src="https://img.shields.io/badge/NEU_MAIL-0d1117?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/NEU_MAIL-CC0000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>

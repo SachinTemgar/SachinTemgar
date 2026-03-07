@@ -28,14 +28,6 @@ Building things that hold up in production, not just in notebooks.
 
 ### Arsenal
 
-*Core Stack**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,postgres,mongodb,mysql,fastapi,spring,aws,gcp,docker,git,pytorch,github&theme=dark&perline=7" />
-</p>
-
-<br/>
-
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)

@@ -17,16 +17,16 @@
 **MS Software Engineering Systems &nbsp;·&nbsp; Northeastern University &nbsp;·&nbsp; May 2026**
 &nbsp;&nbsp;Boston, MA
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,50:555555,100:3a3a3a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
 I don't specialize in one thing because the best problems don't either.
 
 My work sits at the intersection of **backend engineering, data infrastructure, and applied AI.**
 Building things that hold up in production, not just in notebooks.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,50:555555,100:3a3a3a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
-### Arsenal
+### ![Arsenal](https://img.shields.io/badge/ARSENAL-0d1117?style=flat-square&labelColor=0d1117&color=1f6feb)
 
 ```text
 Languages     ->  Python · Java · SQL · JavaScript
@@ -36,22 +36,22 @@ Cloud/DevOps  ->  AWS · GCP · Docker · GitHub Actions · CI/CD
 AI/ML         ->  PyTorch · RAG · Agentic AI · LLMs · YOLOv8 · Transformers
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,50:555555,100:3a3a3a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
-### The work
+### ![The Work](https://img.shields.io/badge/THE_WORK-0d1117?style=flat-square&labelColor=0d1117&color=1f6feb)
 
 -> See pinned repositories below.
 Each one is a decision, not a demo.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,50:555555,100:3a3a3a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
-### On the bench
+### ![On The Bench](https://img.shields.io/badge/ON_THE_BENCH-0d1117?style=flat-square&labelColor=0d1117&color=1f6feb)
 
 🔒 &nbsp;**[Undisclosed]** LLM-powered agentic system.&nbsp; *Dropping soon.*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,50:555555,100:3a3a3a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
-### How I operate
+### ![How I Operate](https://img.shields.io/badge/HOW_I_OPERATE-0d1117?style=flat-square&labelColor=0d1117&color=1f6feb)
 
 Three principles. Non-negotiable.
 
@@ -66,9 +66,9 @@ or translating a technical tradeoff to a non-technical room, I've been in it.
 
 🎓 &nbsp;*Certified: Building RAG Agents with LLMs · NVIDIA Deep Learning Institute*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,50:555555,100:3a3a3a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
-### Availability
+### ![Availability](https://img.shields.io/badge/AVAILABILITY-0d1117?style=flat-square&labelColor=0d1117&color=1f6feb)
 
 I'm not looking for just any role.
 I'm looking for the right problem.

@@ -52,11 +52,6 @@ Each one is a decision, not a demo.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
-### On The Bench
-
-🔒 &nbsp;**[Undisclosed]** LLM-powered agentic system.&nbsp; *Dropping soon.*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
 ### How I Operate
 

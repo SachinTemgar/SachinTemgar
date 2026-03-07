@@ -80,11 +80,7 @@ I'm looking for the right problem.
 
 If your work sits at the intersection of **engineering, data, and impact**, let's talk.
 
-<br/>
 
-📫 &nbsp;[temgar.s@northeastern.edu](mailto:temgar.s@northeastern.edu) &nbsp;&nbsp;·&nbsp;&nbsp; 🔗 &nbsp;[LinkedIn](https://linkedin.com/in/sachin-temgar)
-
-<br/>
 
 <p align="center">
   <a href="mailto:Sachintemgar10@gmail.com">

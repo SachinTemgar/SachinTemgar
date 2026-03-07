@@ -36,11 +36,6 @@ AI/ML         → PyTorch · RAG · Agentic AI · LLMs (Llama 3.1) · YOLOv8 · 
 
 ---
 
-### Currently building
-
-- 🔒 [Stealth project] — LLM-powered agentic system. Dropping soon.
-
----
 
 ### How I think
 

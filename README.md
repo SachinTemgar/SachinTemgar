@@ -51,7 +51,6 @@ Building things that hold up in production, not just in notebooks.
 | [Personal Portfolio Management System](https://github.com/SachinTemgar/Personal-Portfolio-Management-System-PPMS-) | Java · JavaFX · MongoDB | Software Engineering · FinTech |
 | [Credit Risk Prediction](https://github.com/SachinTemgar/Credit-Risk-Prediction-and-Analysis) | Python · Scikit-learn · SQL | ML · Risk Analytics |
 
-Each one is a decision, not a demo.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>

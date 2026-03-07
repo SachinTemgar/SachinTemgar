@@ -1,6 +1,6 @@
 ## Sachin Temgar
 
-I work at the edge where systems get interesting —
+I work at the edge where systems get interesting -
 where the data is messy, the scale is real, and the solution has to hold.
 
 **MS Software Engineering Systems · Northeastern University · May 2026**

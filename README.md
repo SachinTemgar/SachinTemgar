@@ -87,8 +87,6 @@ Building things that hold up in production, not just in notebooks.
 ![SLURM](https://img.shields.io/badge/SLURM-0d1117?style=flat-square&logoColor=white)
 ![PyTorch DDP](https://img.shields.io/badge/PyTorch_DDP/FSDP-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 
-```
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
 ### The Work

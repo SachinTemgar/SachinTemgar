@@ -1,8 +1,5 @@
 
 
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&pause=2500&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=Sachin+Temgar;%E0%A4%B8%E0%A4%9A%E0%A4%BF%E0%A4%A8+%E0%A4%9F%E0%A5%87%E0%A4%AE%E0%A4%97%E0%A4%B0" alt="Name animation"/>
 </p>
@@ -10,6 +7,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Systems+that+scale.;Data+that+decides.;Models+that+ship.;Problems+worth+solving.;Building+where+systems+meet+intelligence." alt="Role animation" />
 </p>
+
+<br/>
 
 <br/>
 I work at the edge where systems get interesting —

@@ -38,29 +38,15 @@ AI/ML         ->  PyTorch · RAG · Agentic AI · LLMs · YOLOv8 · Transformers
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
-### The Work
 
+| Project | Stack | Domain |
+|---|---|---|
+| [High-Performance Pneumonia Detection](https://github.com/SachinTemgar/High-Performance-Pneumonia-Detection-Localization-HPC-Project-) | PyTorch · YOLOv8 · HPC · Slurm | Medical AI · Distributed Systems |
+| [Customer Behavior Analytics](https://github.com/SachinTemgar/Customer-Behavior-Analytics) | Python · Pandas · ML | Data Science · Business Intelligence |
+| [Personal Portfolio Management System](https://github.com/SachinTemgar/Personal-Portfolio-Management-System-PPMS-) | Java · JavaFX · MongoDB | Software Engineering · FinTech |
+| [Credit Risk Prediction](https://github.com/SachinTemgar/Credit-Risk-Prediction-and-Analysis) | Python · Scikit-learn · SQL | ML · Risk Analytics |
 
-
-
-<p align="center">
-  <a href="https://github.com/SachinTemgar/High-Performance-Pneumonia-Detection-Localization-HPC-Project-">
-    <img src="https://gh-card.dev/repos/SachinTemgar/High-Performance-Pneumonia-Detection-Localization-HPC-Project-.svg?fullname=1&dark=1" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/SachinTemgar/Customer-Behavior-Analytics">
-    <img src="https://gh-card.dev/repos/SachinTemgar/Customer-Behavior-Analytics.svg?fullname=1&dark=1" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/SachinTemgar/Personal-Portfolio-Management-System-PPMS-">
-    <img src="https://gh-card.dev/repos/SachinTemgar/Personal-Portfolio-Management-System-PPMS-.svg?fullname=1&dark=1" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/SachinTemgar/Credit-Risk-Prediction-and-Analysis">
-    <img src="https://gh-card.dev/repos/SachinTemgar/Credit-Risk-Prediction-and-Analysis.svg?fullname=1&dark=1" />
-  </a>
-</p>
+Each one is a decision, not a demo.
 </p>
 
 Each one is a decision, not a demo.

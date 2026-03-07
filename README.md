@@ -1,6 +1,14 @@
-## Sachin Temgar
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:3a3a3a&height=200&section=header&text=Sachin%20Temgar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Systems%20%7C%20Data%20%7C%20AI&descSize=18&descAlignY=58&descColor=aaaaaa&animation=fadeIn" width="100%"/>
+</p>
 
-I work at the edge where systems get interesting -
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+Software+Engineer;Building+where+systems+meet+intelligence;Data+that+drives+decisions;Currently+building+something+interesting..." alt="Typing SVG" />
+</p>
+
+<br/>
+
+I work at the edge where systems get interesting —
 where the data is messy, the scale is real, and the solution has to hold.
 
 **MS Software Engineering Systems · Northeastern University · May 2026**
@@ -27,12 +35,8 @@ AI/ML         → PyTorch · RAG · Agentic AI · LLMs (Llama 3.1) · YOLOv8 · 
 
 ---
 
-### A few things I've built
-
-- 🏥 **Pneumonia Detection Pipeline** — Medical imaging on 30K+ chest X-rays. 87.2% accuracy. 5× training speedup. The infrastructure story is in the repo.
-- 📈 **AI Trading Assistant** — Transformer built from scratch. Llama 3.1 via Groq. Real-time market dashboard. Not a tutorial follow-along.
-- 💼 **Investment Portfolio Platform** — 500+ live financial assets. Custom ADTs driving 60% query optimization. Built to scale.
-- ⚙️ **Production API Systems** — FastAPI + PostgreSQL + Redis. 5K+ daily requests. Sub-150ms. 85%+ test coverage. Ships to real users.
+### Selected work
+→ See pinned repos below
 
 ---
 
@@ -54,13 +58,22 @@ I'm selectively exploring roles where the problem is genuinely hard —
 
 If that's you, let's talk.
 
-📫 temgar.s@northeastern.edu
-&nbsp;&nbsp;&nbsp;🔗 [LinkedIn](https://linkedin.com/in/sachin-temgar) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/SachinTemgar)
+📫 temgar.s@northeastern.edu &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/sachin-temgar)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SachinTemgar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=SachinTemgar&theme=github-dark&hide_border=true" height="160"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinTemgar&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinTemgar&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Sachin+Temgar;सचिन+टेमगर;S+A+C+H+I+N" alt="Name animation"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,100:0d0d0d&height=100&section=footer" width="100%"/>
 </p>

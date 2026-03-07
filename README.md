@@ -84,3 +84,31 @@ If your work sits at the intersection of **engineering, data, and impact**, let'
 <br/>
 
 📫 &nbsp;[temgar.s@northeastern.edu](mailto:temgar.s@northeastern.edu) &nbsp;&nbsp;·&nbsp;&nbsp; 🔗 &nbsp;[LinkedIn](https://linkedin.com/in/sachin-temgar)
+
+<br/>
+
+<p align="center">
+  <a href="mailto:Sachintemgar10@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/sachin-temgar">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  </a>
+  &nbsp;
+  <a href="mailto:temgar.s@northeastern.edu">
+    <img src="https://img.shields.io/badge/NEU_MAIL-0d1117?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4&labelColor=0d1117"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SachinTemgar&theme=github-dark&hide_border=true" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinTemgar&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,100:0d0d0d&height=100&section=footer" width="100%"/>
+</p>

@@ -8,14 +8,19 @@
 </p>
 
 
+<p align="center"><i>"The edge where systems get interesting: where data is messy, scale is real, and the solution has to hold."</i></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MS_Software_Engineering_Systems-0d1117?style=flat-square&logo=northeastern-university&logoColor=CC0000&labelColor=0d1117&color=30363d"/>
+  <img src="https://img.shields.io/badge/Northeastern_University-CC0000?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/May_2026-0d1117?style=flat-square&color=30363d&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Boston,_MA-0d1117?style=flat-square&logo=google-maps&logoColor=4285F4&color=30363d"/>
+</p>
+
 <br/>
 
-*The edge where systems get interesting: where data is messy, scale is real, and the solution has to hold.*
-
-<br/>
-
-**MS Software Engineering Systems &nbsp;·&nbsp; Northeastern University &nbsp;·&nbsp; May 2026**
-&nbsp;&nbsp;Boston, MA
+<p align="center">I don't specialize in one thing because the best problems don't either.</p>
+<p align="center">My work sits at the intersection of <b>backend engineering, data infrastructure, and applied AI.</b><br/>Building things that hold up in production, not just in notebooks.</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 

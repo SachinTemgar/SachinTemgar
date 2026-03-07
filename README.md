@@ -82,8 +82,6 @@ If your work sits at the intersection of **engineering, data, and impact**, let'
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
-### Availability
-
 <p align="center">
   <a href="mailto:Sachintemgar10@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117"/>

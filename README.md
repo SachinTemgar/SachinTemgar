@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Systems+that+scale.;Data+that+decides.;Models+that+ship.;Problems+worth+solving.;Building+where+systems+meet+intelligence." alt="Role animation" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
 <p align="center"><i>"The edge where systems get interesting: where data is messy, scale is real, and the solution has to hold."</i></p>
 

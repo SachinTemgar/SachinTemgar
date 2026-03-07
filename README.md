@@ -92,6 +92,6 @@ If your work sits at the intersection of **engineering, data, and impact**, let'
   </a>
   &nbsp;
   <a href="mailto:temgar.s@northeastern.edu">
-    <img src="https://img.shields.io/badge/NEU_MAIL-CC0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NEU_MAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>

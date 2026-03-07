@@ -80,7 +80,9 @@ I'm looking for the right problem.
 
 If your work sits at the intersection of **engineering, data, and impact**, let's talk.
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
+### Availability
 
 <p align="center">
   <a href="mailto:Sachintemgar10@gmail.com">

@@ -56,7 +56,7 @@
 
 </p>
 
-## Applied Business Frameworks
+### Applied Business Frameworks
 
 The best solutions don't start with code. They start with the right question.
 

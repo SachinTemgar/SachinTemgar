@@ -51,7 +51,7 @@
 |---|---|---|
 | [High-Performance Pneumonia Detection](https://github.com/SachinTemgar/High-Performance-Pneumonia-Detection-Localization-HPC-Project-) | PyTorch · YOLOv8 · HPC · Slurm | Medical AI · Distributed Systems |
 | [Customer Behavior Analytics](https://github.com/SachinTemgar/Customer-Behavior-Analytics) | Python · SQL · PostgreSQL · Power BI | Data Analytics · Business Intelligence |
-| [Personal Portfolio Management System](https://github.com/SachinTemgar/Personal-Portfolio-Management-System-PPMS-) | Java · JavaFX · MongoDB | Software Engineering · FinTech |
+| [Warren Buffett AI Investment Advisor](https://github.com/SachinTemgar/Buffett-AI-Advisor-Chatbot.git) | Python · PyTorch · Cloud Deployment · GenAI | AI/ML · LLM · FinTech |
 | [Credit Risk Prediction](https://github.com/SachinTemgar/Credit-Risk-Prediction-and-Analysis) | Python · Scikit-learn · SQL | ML · Risk Analytics |
 
 </p>

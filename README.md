@@ -56,6 +56,18 @@
 
 </p>
 
+## Applied Business Frameworks
+
+The best solutions don't start with code. They start with the right question.
+
+| Case Study | Domain | Frameworks |
+|---|---|---|
+| [**SpaceX's Agile Hardware Revolution**](https://github.com/SachinTemgar/Applied-Business-Frameworks/blob/main/spacex-agile-lean-devops-hardware-transformation.pdf) | Aerospace · Process Transformation | Agile, Lean, DevOps, Kotter's 8-Step |
+| [**TSMC's Supply Chain Sovereignty**](https://github.com/SachinTemgar/Applied-Business-Frameworks/blob/main/tsmc-supply-chain-transformation-scor-analysis.pdf) | Supply Chain · Semiconductors | SCOR, Value Stream Mapping, Risk Management |
+| [**Netflix's Gaming Gambit**](https://github.com/SachinTemgar/Applied-Business-Frameworks/blob/main/netflix-gaming-product-strategy-analysis.pdf) | Product Strategy · Entertainment | JTBD, RICE Scoring, SWOT, Product Roadmap |
+
+> Full analyses with findings and recommendations: [Applied-Business-Frameworks](https://github.com/SachinTemgar/Applied-Business-Frameworks)
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
 

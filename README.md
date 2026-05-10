@@ -71,20 +71,7 @@ The best solutions don't start with code. They start with the right question.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
 
-### How I Operate
 
-Three principles. Non-negotiable.
-
-> **Build for production, not for portfolios.**
-> **Let the data speak, then make it impossible to ignore.**
-> **If you can't explain it simply, you don't understand it yet.**
-
-Whether that's architecting a distributed training pipeline, designing a production API under load,
-or translating a technical tradeoff to a non-technical room, I've been in it.
-
-<br/>
-
-🎓 &nbsp;*Certified: Building RAG Agents with LLMs · NVIDIA Deep Learning Institute*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 

@@ -75,12 +75,7 @@ The best solutions don't start with code. They start with the right question.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
-### Availability
 
-I'm not looking for just any role.
-I'm looking for the right problem.
-
-If your work sits at the intersection of **engineering, data, and impact**, let's talk.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 

@@ -23,8 +23,7 @@
 
 <br/>
 
-<p align="center">I don't specialize in one thing because the best problems don't either.</p>
-<p align="center">My work sits at the intersection of <b>backend engineering, data infrastructure, and applied AI.</b><br/>Building things that hold up in production, not just in notebooks.</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%"/>
 
